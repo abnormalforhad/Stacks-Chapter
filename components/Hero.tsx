@@ -47,7 +47,7 @@ const Hero = () => {
             {/* Main large image - Classic Library */}
             <div className="absolute left-0 top-10 w-[55%] h-[85%] rounded-2xl overflow-hidden shadow-2xl transform -rotate-2 hover:rotate-0 transition-transform duration-500 z-10">
               <img 
-                src="https://images.unsplash.com/photo-1507842217121-ad959dc1f246?auto=format&fit=crop&q=80&w=800" 
+                src="https://images.unsplash.com/photo-1770297346180-6ae7191f0817?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1fHx8ZW58MHx8fHx8" 
                 alt="Classic Library with Ladder" 
                 className="w-full h-full object-cover"
               />
@@ -60,7 +60,7 @@ const Hero = () => {
             {/* Top right small image - Abstract Tech/Nodes */}
             <div className="absolute right-4 top-0 w-[40%] h-[45%] rounded-2xl overflow-hidden shadow-xl transform translate-y-4 hover:translate-y-2 transition-transform duration-500 z-0 bg-gray-100">
               <img 
-                src="https://images.unsplash.com/photo-1639322537228-ad7117a21f78?auto=format&fit=crop&q=80&w=600" 
+                src="https://oiz5xcmevc5tinf2.public.blob.vercel-storage.com/IMG_20250807_140001.jpg" 
                 alt="Blockchain Abstract" 
                 className="w-full h-full object-cover"
               />
@@ -72,7 +72,7 @@ const Hero = () => {
             {/* Bottom right small image - Bitcoin Layers */}
             <div className="absolute right-4 bottom-0 w-[40%] h-[45%] rounded-2xl overflow-hidden shadow-xl transform -translate-y-4 hover:-translate-y-2 transition-transform duration-500 z-20 bg-gray-100">
               <img 
-                src="https://images.unsplash.com/photo-1621504450162-e2bbb0292969?auto=format&fit=crop&q=80&w=600" 
+                src="https://images.unsplash.com/photo-1770045232290-e6ef3e939b26?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzOHx8fGVufDB8fHx8fA%3D%3D" 
                 alt="Digital Network" 
                 className="w-full h-full object-cover"
               />
